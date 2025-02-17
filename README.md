@@ -14,7 +14,6 @@ git clone https://github.com/EbubeStrong/Tailwind_Set_Up.git
   ```
 
 - Install React Router (if needed)
-  -install react-router-dom:
 ```sh
 npm install react-router-dom
 ```
