@@ -1,11 +1,25 @@
-# Tip-Calculator
-A simple tip calculator built with React that allows users to calculate tips based on the bill amount and service quality.
+## Tailwind Set Up (Vite + React.js)
+### 1️⃣ **Clone this Repo in your Local Folder**
+ - Run the following command to clone the Repo:
+```sh
+git clone 
+```
 
-## React + Vite
+## 2️⃣ Create another folder and copy all the files in this repo to your folder.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- 3️⃣ Open your newly created folder and Install dependencies:
+  ```sh
+  npm install
+  ```
 
-Currently, two official plugins are available:
+- Install Routing Set Up
+```sh
+npm react-router-dom
+```
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 4️⃣ Change Naming Conventions:
+- Go to package.json and change the name to your project name
+- Go to index.html and change the title to your title
+
+### 5️⃣ Happy Coding! After Successfully done all these 😊
+
