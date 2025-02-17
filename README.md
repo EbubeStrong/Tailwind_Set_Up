@@ -5,7 +5,7 @@
 git clone https://github.com/EbubeStrong/Tailwind_Set_Up.git
 ```
 
-## 2️⃣ Create another folder and copy all the files in this repo to your folder.
+## 2️⃣ Create another folder Locally in your PC and copy all the files in this repo to your folder.
 
 
  ## 3️⃣ Open your newly created folder and Install dependencies:
