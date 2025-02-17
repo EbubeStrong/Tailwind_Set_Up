@@ -2,7 +2,7 @@
 ### 1️⃣ **Clone this Repo in your Local Folder**
  - Run the following command to clone the Repo:
 ```sh
-git clone 
+git clone https://github.com/EbubeStrong/Tailwind_Set_Up.git
 ```
 
 ## 2️⃣ Create another folder and copy all the files in this repo to your folder.
@@ -12,14 +12,19 @@ git clone
   npm install
   ```
 
-- Install Routing Set Up
+- Install React Router (if needed)
+If you need routing in your app, install react-router-dom:
 ```sh
 npm react-router-dom
 ```
 
 ## 4️⃣ Change Naming Conventions:
-- Go to package.json and change the name to your project name
-- Go to index.html and change the title to your title
+-- Open package.json and change the "name" field to your desired project name.
+-- Open index.html and change the <title> to your project title.
 
-### 5️⃣ Happy Coding! After Successfully done all these 😊
+### 5️⃣ Happy Coding! After Successfully done all these, run the development server
+```sh
+npm run dev
+```
 
+Now you're all set! Happy coding with Tailwind and React! 😊
