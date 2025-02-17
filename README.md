@@ -5,7 +5,7 @@
 git clone https://github.com/EbubeStrong/Tailwind_Set_Up.git
 ```
 
-## 2️⃣ Create another folder Locally in your PC, open this *Repo* Folder and copy all the files from the *Repo* to your Folder.
+## 2️⃣ Create another folder Locally in your PC; open this *Repo* Folder and copy all the files from the *Repo* to your Folder.
 
 
  ## 3️⃣ Open your newly created folder and Install dependencies:
@@ -14,9 +14,9 @@ git clone https://github.com/EbubeStrong/Tailwind_Set_Up.git
   ```
 
 - Install React Router (if needed)
-If you need routing in your app, install react-router-dom:
+  install react-router-dom:
 ```sh
-npm react-router-dom
+npm install react-router-dom
 ```
 
 ## 4️⃣ Change Naming Conventions:
