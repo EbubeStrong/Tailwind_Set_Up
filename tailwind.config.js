@@ -1,5 +1,5 @@
 /** @type {import('tailwindcss').Config} */
-module.exports = {
+export default {
   // Specify the paths to all of the template files in your project
   content: [
     "./index.html",
